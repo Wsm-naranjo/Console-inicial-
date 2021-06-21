@@ -1,0 +1,7 @@
+﻿namespace Encapsulacion
+{
+    class Estudiante
+    {
+
+    }
+}

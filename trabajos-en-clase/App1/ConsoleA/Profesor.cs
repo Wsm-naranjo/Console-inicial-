@@ -1,0 +1,26 @@
+﻿namespace Encapsulamiento
+
+{
+    class Profesor
+    {
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
