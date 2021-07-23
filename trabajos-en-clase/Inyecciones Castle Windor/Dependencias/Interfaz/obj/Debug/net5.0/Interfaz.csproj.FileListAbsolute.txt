@@ -1,0 +1,12 @@
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\bin\Debug\net5.0\Interfaz.deps.json
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\bin\Debug\net5.0\Interfaz.dll
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\bin\Debug\net5.0\ref\Interfaz.dll
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\bin\Debug\net5.0\Interfaz.pdb
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.csproj.AssemblyReference.cache
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.AssemblyInfo.cs
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.dll
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\ref\Interfaz.dll
+C:\Users\yavirac\Desktop\tercer semestre\inyectores\Inyecciones\Interfaz\obj\Debug\net5.0\Interfaz.pdb
