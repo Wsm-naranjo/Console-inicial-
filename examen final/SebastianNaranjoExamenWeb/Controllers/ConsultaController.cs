@@ -41,5 +41,11 @@ namespace SebastianNaranjoExamenWeb.Controllers
             return Nodo.Navegar(arbol));
 
         }
+        public IActionResult Lenguaje()
+        {
+            string[] languages = { "Lisp", "ICI", "C#", "Angular", "F#" };
+
+            var result = string.Join(string.Empty, languages.Reverse().Select(s => s[0]));
+        }
     }
 }
