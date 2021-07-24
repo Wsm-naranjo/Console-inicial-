@@ -23,4 +23,10 @@ namespace SebastianNaranjoExamenWeb
                     webBuilder.UseStartup<Startup>();
                 });
     }
+    public class Lengua
+    {
+        string[] languages = { "Lisp", "ICI", "C#", "Angular", "F#" };
+
+        var result = string.Join(string.Empty, languages.Reverse().Select(s => s[0]));
+    }
 }
