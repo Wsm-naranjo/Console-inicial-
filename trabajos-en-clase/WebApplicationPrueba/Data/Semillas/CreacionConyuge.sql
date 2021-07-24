@@ -1,0 +1,1 @@
+﻿insert into Conyuges (Cedula ,Nombre, Apellido,EmpleadoId) values (1727264515,'Lesly','Chamorro',1);
