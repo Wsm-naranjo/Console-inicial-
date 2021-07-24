@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yavirac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yavirac\\.nuget\\packages"
+    ]
+  }
+}
